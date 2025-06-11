@@ -1,4 +1,4 @@
-##  About me
+## 👾 ABOUT ME
 
 ## 🛠 Skills & Tools
 
