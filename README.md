@@ -8,13 +8,21 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
+### 🌱 Frameworks & Tools  
 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/NEXT.JS-3178C6?style=for-the-badge&logo=typescript&logoColor=white))
 
+<p align="column">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTo12&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTo12&layout=compact&theme=tokyonight)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
