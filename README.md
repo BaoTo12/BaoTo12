@@ -12,17 +12,17 @@
 ###  Frameworks
 ![Spring Boot](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/NEXT.JS-E0234E?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/NEXT.JS-E0234E?style=for-the-badge&logo=next.js&logoColor=white)
 
 ###  Techs
-![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=typescript&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=typescript&logoColor=white)
-![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=typescript&logoColor=white)
+![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=java&logoColor=white)
 
 ###  Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=assertJ&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 📊 Git Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight" />
