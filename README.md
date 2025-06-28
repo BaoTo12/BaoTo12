@@ -1,4 +1,12 @@
-## 👾 ABOUT ME
+<div align="center">
+  
+# 👋 Hello, I'm Chí Bảo
+
+### **Full-Stack Developer**
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZjJnanc4ZGt6b3B1OHEwNHNrZWVqNWUxMnZsNWpvOHhjbTNpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
+
+</div>
 
 ## 🌱 Skills & Tools
 
