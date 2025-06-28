@@ -22,7 +22,29 @@
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/NEXT.JS-E0234E?style=for-the-badge&logo=next.js&logoColor=white)
 
-###  Techs
+
+###  Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=java&logoColor=white)
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF7D7D&center=true&vCenter=true&width=500&lines=Code+is+my+canvas;Turning+ideas+into+reality;Debugging+by+day%2C+Creating+by+night)
+  
+</div>
+
+## ✨ Fun Fact
+
+### Tell me you're a developer without telling me you're a developer.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&center=true&vCenter=true&width=435&lines=Relax%2C+sit+back+and+enjoy+coding!" alt="Typing SVG" />
+</div>
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -43,13 +65,7 @@
 </table>
 
 
-###  Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=java&logoColor=white)
+
 ## 📊 Git Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight" />
