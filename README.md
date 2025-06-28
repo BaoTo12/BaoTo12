@@ -15,14 +15,33 @@
 ![Next JS](https://img.shields.io/badge/NEXT.JS-E0234E?style=for-the-badge&logo=next.js&logoColor=white)
 
 ###  Techs
-![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=java&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+      </picture>
+    </td>
+    <td valign="top" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+    </td>
+         
+
+
+  </tr>
+</table>
+
 
 ###  Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=java&logoColor=white)
 ## 📊 Git Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight" />
