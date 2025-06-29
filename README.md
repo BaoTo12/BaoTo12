@@ -14,8 +14,7 @@
 ![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/RUST-F93827?style=for-the-badge&logo=rust&logoColor=white)
-
+![Golang](https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ###  Frameworks
 ![Spring Boot](https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
