@@ -29,6 +29,7 @@
 ![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=java&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-%23CB2136?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 <div align="center">
   
