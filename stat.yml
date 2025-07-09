@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour, at minute 0 UTC
+    - cron: '5 * * * *'  # every hour, at minute 0 UTC
 
 jobs:
   update-readme:
