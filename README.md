@@ -57,10 +57,10 @@
 
 
 ## 📊 Git Stats
-
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTo12&layout=compact&theme=tokyonight" />
-
+-->
 <!-- STATS_START -->
 
 **Public repos:** 10  
