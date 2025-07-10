@@ -63,6 +63,11 @@
 
 <!-- STATS_START -->
 
+**Public repos:** 10  
+**Followers:** 3  
+_Last updated: 2025-06-11 03:33:43 UTC_  
+
+
 <!-- STATS_END -->
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
