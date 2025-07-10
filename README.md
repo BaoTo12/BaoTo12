@@ -2,7 +2,6 @@
   
 # 👋 Hello, I'm Chí Bảo
 
-### **Full-Stack Developer**
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZjJnanc4ZGt6b3B1OHEwNHNrZWVqNWUxMnZsNWpvOHhjbTNpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
 
@@ -49,19 +48,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&center=true&vCenter=true&width=435&lines=Relax%2C+sit+back+and+enjoy+coding!" alt="Typing SVG" />
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-        <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-      </picture>
-    </td>
-    <td valign="top" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-    </td>
          
 
 
@@ -75,6 +61,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTo12&layout=compact&theme=tokyonight" />
 
+<!-- STATS_START -->
+
+<!-- STATS_END -->
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
 // [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
