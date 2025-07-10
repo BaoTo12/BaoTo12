@@ -61,16 +61,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTo12&layout=compact&theme=tokyonight" />
 -->
-<!-- STATS_START -->
 
-**Public repos:** 10  
-**Followers:** 3  
-_Last updated: 2025-06-11 03:33:43 UTC_  
-  
+![BaoTo12’s GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoTo12&show_icons=true&theme=radical)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoTo12&layout=compact&theme=radical)
 
-
-<!-- STATS_END -->
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-// [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-// [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
