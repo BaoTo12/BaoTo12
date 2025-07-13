@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="react"> 
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
