@@ -16,7 +16,7 @@
 ✔ I’m looking forward learning new things <br>
 ✔ I'm an animal lover, especially fond of cats and dogs😉<br>
 ✔ I'm a big fan of books and anime 🎯<br>
-✔ <em>At The time of Stress coding, I use to be in half sleeping mode</em><br><br><br><br></p>
+✔ <em>At The time of Stress coding, I tend to be in half sleeping mode</em><br><br><br><br></p>
 
 ## 🌱 Skills & Tools
 <h3 align="left">Languages</h3>
