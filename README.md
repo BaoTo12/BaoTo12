@@ -13,11 +13,11 @@
 <em><strong>Personal Stuffs…</strong></em></p>
 <p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>🌸 <br>
 ✔ I’m currently learning <strong>ReactJS</strong> &amp; <strong>NodeJS</strong> &amp; <strong>Golang, Gin</strong><br>
-✔ I’m looking forward learning new things <br>
 ✔ I'm an animal lover, especially fond of cats and dogs😉<br>
 ✔ I'm a big fan of books and anime 🎯<br>
+✔ I'm having understanding about listed technologies, and I'm eager to dig deeper and learn new things 🍑<br>
 ✔ <em>At The time of Stress coding, I tend to be in half sleeping mode</em><br><br><br><br></p>
-✔ I'm having understanding about listed technologies and I'm eager to dig deeper 🍑<br>
+
 
 ## 🌱 Skills & Tools
 <h3 align="left">Languages</h3>
