@@ -86,23 +86,9 @@
     <img src="https://img.shields.io/badge/JMeter-%23CB2136?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter">
 </a>
 </p>
-<hr>
-<h3 align="left">Reach me</h3>
-<p align="left">
- <!-- Zalo -->
-  <a href="https://zalo.me/0877084366" target="_blank">
-  <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
-  </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/bao.chi.955567/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/baoto.san/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  
-</p>
+
+
+
 
 <div align="center">
   
