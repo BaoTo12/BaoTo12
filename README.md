@@ -39,10 +39,8 @@
 <p align="left">
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="nodejs"> 
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="express">
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" alt="hibernate "> 
     <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="spring Boot"> 
-    <img src="https://img.shields.io/badge/Spring%20Data%20Neo4j-008CC1?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data Neo4j">
-
+    <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin">
 </p>
 <h3 align="left">Database</h3>
 <p align="left">
