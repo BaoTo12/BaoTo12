@@ -10,7 +10,7 @@
 
 <img align="right" width="200px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-<em><strong>Personal Stuffs…</strong></em></p>
+<em><strong>Personal Stuff…</strong></em></p>
 <p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>🌸 <br>
 ✔ I’m currently learning <strong>ReactJS</strong> &amp; <strong>NodeJS</strong> &amp; <strong>Golang, Gin</strong><br>
 ✔ I'm an animal lover, especially fond of cats and dogs😉<br>
