@@ -94,35 +94,6 @@
 
 
 
-## 📊 Git Stats
-
-<table align="center">
-<tbody>
-<tr border="none">
-
-  <td width="50%" align="center">
-    <img align="center" 
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaoTo12&theme=radical&show_icons=true&count_private=true" />
-    <br/>
-  </td>
-
-  <td width="50%" align="center">
-    <img align="center" 
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BaoTo12&layout=compact&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-  </td>
-
-</tr>
-</tbody>
-</table>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" 
-           src="https://github-profile-trophy.vercel.app/?username=BaoTo12&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
-           alt="TROPHY">
-    </a>
-</div>
-
 <hr>
 
 <p align="center">
